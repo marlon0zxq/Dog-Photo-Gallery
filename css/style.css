@@ -15,8 +15,12 @@ body{
     margin: 8px
 }
 
-h1 {
+.header{
     text-align: center ;
+    text-transform: capitalize;
+    background-color: rgb(228, 202, 168);
+    color: rgba(0, 0, 0, 0.87);
+    border-bottom: 4px solid #000400;
 }
 .gallery {
     display: flexbox
