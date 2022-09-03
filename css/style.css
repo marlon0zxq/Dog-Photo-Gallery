@@ -23,5 +23,7 @@ body{
     border-bottom: 4px solid #000400;
 }
 .gallery {
-    display: flexbox
+    display: flex;
+    justify-content: center;
+    /* flex-wrap: wrap */
 }
